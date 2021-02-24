@@ -1,11 +1,11 @@
 +++
-title = "Supported Versions"
+title = "Supported Kuberntes Versions"
 date = 2020-09-16T20:07:15+02:00
 weight = 5
 
 +++
 
-This document describes the Kubernetes support and KKP versioning itself.
+This document describes the Kubernetes support and Kubermatic Kubernetes Platform (KKP) versioning itself.
 
 ## Supported KKP Versions
 
